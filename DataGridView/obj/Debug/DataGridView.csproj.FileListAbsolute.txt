@@ -1,0 +1,28 @@
+C:\Users\Arturo\Desktop\TRABAJOS\PROGRA\DataGridView\DataGridView\bin\Debug\DataGridView.exe.config
+C:\Users\Arturo\Desktop\TRABAJOS\PROGRA\DataGridView\DataGridView\bin\Debug\DataGridView.exe
+C:\Users\Arturo\Desktop\TRABAJOS\PROGRA\DataGridView\DataGridView\bin\Debug\DataGridView.pdb
+C:\Users\Arturo\Desktop\TRABAJOS\PROGRA\DataGridView\DataGridView\obj\Debug\DataGridView.csprojResolveAssemblyReference.cache
+C:\Users\Arturo\Desktop\TRABAJOS\PROGRA\DataGridView\DataGridView\obj\Debug\DataGridView.Form1.resources
+C:\Users\Arturo\Desktop\TRABAJOS\PROGRA\DataGridView\DataGridView\obj\Debug\DataGridView.Properties.Resources.resources
+C:\Users\Arturo\Desktop\TRABAJOS\PROGRA\DataGridView\DataGridView\obj\Debug\DataGridView.csproj.GenerateResource.Cache
+C:\Users\Arturo\Desktop\TRABAJOS\PROGRA\DataGridView\DataGridView\obj\Debug\DataGridView.exe
+C:\Users\Arturo\Desktop\TRABAJOS\PROGRA\DataGridView\DataGridView\obj\Debug\DataGridView.pdb
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\3 cuatri\PROGRA\DataGridView\DataGridView\bin\Debug\DataGridView.exe.config
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\3 cuatri\PROGRA\DataGridView\DataGridView\bin\Debug\DataGridView.exe
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\3 cuatri\PROGRA\DataGridView\DataGridView\bin\Debug\DataGridView.pdb
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\3 cuatri\PROGRA\DataGridView\DataGridView\obj\Debug\DataGridView.csprojAssemblyReference.cache
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\3 cuatri\PROGRA\DataGridView\DataGridView\obj\Debug\DataGridView.Form1.resources
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\3 cuatri\PROGRA\DataGridView\DataGridView\obj\Debug\DataGridView.Properties.Resources.resources
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\3 cuatri\PROGRA\DataGridView\DataGridView\obj\Debug\DataGridView.csproj.GenerateResource.cache
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\3 cuatri\PROGRA\DataGridView\DataGridView\obj\Debug\DataGridView.exe
+C:\Users\jazhi\OneDrive\Escritorio\TRABAJOS\3 cuatri\PROGRA\DataGridView\DataGridView\obj\Debug\DataGridView.pdb
+Z:\jazhi\Documents\UTLD\TSU\3 cuatrimestre\DataGridView\DataGridView\bin\Debug\DataGridView.exe.config
+Z:\jazhi\Documents\UTLD\TSU\3 cuatrimestre\DataGridView\DataGridView\bin\Debug\DataGridView.exe
+Z:\jazhi\Documents\UTLD\TSU\3 cuatrimestre\DataGridView\DataGridView\bin\Debug\DataGridView.pdb
+Z:\jazhi\Documents\UTLD\TSU\3 cuatrimestre\DataGridView\DataGridView\obj\Debug\DataGridView.csproj.AssemblyReference.cache
+Z:\jazhi\Documents\UTLD\TSU\3 cuatrimestre\DataGridView\DataGridView\obj\Debug\DataGridView.Form1.resources
+Z:\jazhi\Documents\UTLD\TSU\3 cuatrimestre\DataGridView\DataGridView\obj\Debug\DataGridView.Properties.Resources.resources
+Z:\jazhi\Documents\UTLD\TSU\3 cuatrimestre\DataGridView\DataGridView\obj\Debug\DataGridView.csproj.GenerateResource.cache
+Z:\jazhi\Documents\UTLD\TSU\3 cuatrimestre\DataGridView\DataGridView\obj\Debug\DataGridView.csproj.CoreCompileInputs.cache
+Z:\jazhi\Documents\UTLD\TSU\3 cuatrimestre\DataGridView\DataGridView\obj\Debug\DataGridView.exe
+Z:\jazhi\Documents\UTLD\TSU\3 cuatrimestre\DataGridView\DataGridView\obj\Debug\DataGridView.pdb
